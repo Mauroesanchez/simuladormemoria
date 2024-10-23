@@ -1,0 +1,10 @@
+com\mycompany\simulador\AdministradorDeMemoria.class
+com\mycompany\simulador\NextFit.class
+com\mycompany\simulador\SimuladorDeMemoria.class
+com\mycompany\simulador\Trabajo.class
+com\mycompany\simulador\FirstFit.class
+com\mycompany\simulador\RegistroDeEventos.class
+com\mycompany\simulador\WorstFit.class
+com\mycompany\simulador\ColaDeTrabajos.class
+com\mycompany\simulador\BloqueDeMemoria.class
+com\mycompany\simulador\BestFit.class
